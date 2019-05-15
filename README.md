@@ -1,11 +1,11 @@
 # A leetcode a day keeps unemployment away.
 ## Statistic
-Solved **4** / **994** problems while **140** are still locked.(2019-05-15 14:20:14)
+Solved **5** / **994** problems while **140** are still locked.(2019-05-15 14:50:53)
 
 Completion statistic based on languages: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 4
+3. C++: 5
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -21,7 +21,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|[C++](https://github.com/103062320/LeetCode/tree/master/code/007.%20Reverse%20Intege/7.reverse-integer.cpp)|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
-|009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|[C++](https://github.com/103062320/LeetCode/tree/master/code/009.%20Palindrome%20Numbe/9.palindrome-number.cpp)|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
