@@ -1,11 +1,11 @@
 # A leetcode a day keeps unemployment away.
 ## Statistic
-Solved **2** / **994** problems while **140** are still locked.(2019-05-15 11:24:09)
+Solved **3** / **994** problems while **140** are still locked.(2019-05-15 13:32:23)
 
 Completion statistic based on languages: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 2
+3. C++: 3
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -15,7 +15,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/103062320/LeetCode/tree/master/code/001.%20Two%20Su/1.cpp)|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/103062320/LeetCode/tree/master/code/002.%20Add%20Two%20Number/2.add-two-numbers.cpp)|To Do|
-|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|[C++](https://github.com/103062320/LeetCode/tree/master/code/003.%20Longest%20Substring%20Without%20Repeating%20Character/3.longest-substring-without-repeating-characters.cpp)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
