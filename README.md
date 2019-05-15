@@ -1,6 +1,6 @@
 # A leetcode a day keeps unemployment away.
 ## Statistic
-Solved **3** / **994** problems while **140** are still locked.(2019-05-15 13:32:23)
+Solved **3** / **994** problems while **140** are still locked.(2019-05-15 13:48:53)
 
 Completion statistic based on languages: 
 1. JavaScript: 0 
