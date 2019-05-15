@@ -1,11 +1,11 @@
 # A leetcode a day keeps unemployment away.
 ## Statistic
-Solved **0** / **994** problems while **140** are still locked.(2019-05-15 10:11:32)
+Solved **1** / **994** problems while **140** are still locked.(2019-05-15 10:58:57)
 
 Completion statistic based on languages: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 0
+3. C++: 1
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -13,7 +13,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ## Solution Table
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/103062320/LeetCode/tree/master/code\001.%20Two%20Su\1.two-sum.cpp)|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
