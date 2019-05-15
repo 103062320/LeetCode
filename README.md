@@ -1,11 +1,11 @@
 # A leetcode a day keeps unemployment away.
 ## Statistic
-Solved **3** / **994** problems while **140** are still locked.(2019-05-15 13:48:53)
+Solved **4** / **994** problems while **140** are still locked.(2019-05-15 14:20:14)
 
 Completion statistic based on languages: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 3
+3. C++: 4
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -19,7 +19,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|To Do|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|[C++](https://github.com/103062320/LeetCode/tree/master/code/007.%20Reverse%20Intege/7.reverse-integer.cpp)|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
